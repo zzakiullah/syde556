@@ -2,7 +2,7 @@
 
 Course website: http://github.com/tcstewar/syde556-f21
 
-YouTube: https://www.youtube.com/playlist?list=PLX-XEf1yTMrkZV_TgbHtpEahWwlknpb2r
+YouTube playlist: https://www.youtube.com/playlist?list=PLX-XEf1yTMrkZV_TgbHtpEahWwlknpb2r
 
 ## 🎒 Lectures
 
