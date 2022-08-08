@@ -2,6 +2,8 @@
 
 Course website: http://github.com/tcstewar/syde556-f21
 
+YouTube: https://www.youtube.com/playlist?list=PLX-XEf1yTMrkZV_TgbHtpEahWwlknpb2r
+
 ## 🎒 Lectures
 
 - Sep 8 - Administrative Remarks [[Slides](https://github.com/tcstewar/syde556-f21/raw/master/lectures/lecture_00/syde556_lecture_00_slides.pdf)] [[Notes](https://github.com/tcstewar/syde556-f21/raw/master/lectures/lecture_00/syde556_lecture_00_notes.pdf)]
